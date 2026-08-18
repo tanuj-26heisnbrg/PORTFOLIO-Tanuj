@@ -4,8 +4,8 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import Techstack from "../About/Techstack";
-import Github from "../About/Github";
+// import Techstack from "../About/Techstack";
+// import Github from "../About/Github";
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -61,7 +61,7 @@ function Home() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="#"
+                  href="https://github.com/tanuj-26heisnbrg"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -71,7 +71,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href="#"
+                  href="https://x.com/TKYadav078Dhbrg"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -81,7 +81,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/in/tanuj-kumar-yadav-9053a637a/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -91,7 +91,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href="#"
+                  href="https://www.instagram.com/tee.kay.why_/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"

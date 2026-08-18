@@ -2,11 +2,11 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
-import logo from "../Assets/heisnbrg.jpg";
+// import logo from "../Assets/heisnbrg.jpg";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
+// import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
   AiOutlineHome,
@@ -114,7 +114,7 @@ function NavBar() {
            
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href="https://github.com/tanuj-26heisnbrg"
                 target="_blank"
                 className="fork-btn-inner"
               >
